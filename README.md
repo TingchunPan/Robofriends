@@ -2,8 +2,7 @@
 
 https://robofriends-cats.herokuapp.com/
 
-Within this mini project, I use JavaScript and api (each different email could automatically generate one new cat figure) to present the 'search function.'
-The whole project is refered to Robofriends, one small project in Andrei's courses, The Complete Web Developer in 2022: Zero to Mastery. 
+Within this mini-project, I use JavaScript and API (each different email could automatically generate one new cat figure) to present the 'search function.' The whole project is referred to Robofriends, one small project in Andrei's courses, The Complete Web Developer in 2022: Zero to Mastery.
 
 
 # Getting Started with Create React App
