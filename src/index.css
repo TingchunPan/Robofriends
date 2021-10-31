@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family:'Helvetica Neue';
+background: linear-gradient( to right, #F9C0C0 0%, #FAFCC2 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    
+}
+
